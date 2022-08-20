@@ -1,17 +1,16 @@
-### Hi there 👋
+### Hi 👋, my name is Alex.
+<hr>
 
-<!--
-**V1merX/V1merX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on <b>GXPRO.RU</b>.
+- 🌱 I’m currently learning <b>Golang</b>.
+- 💬 Ask me about <b>php, sql</b>.
+<hr> 
 
-Here are some ideas to get you started:
+### Stats:   <br/>
+<code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats:  
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=V1merX&show_icons=true)
