@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <b>GXPRO.RU</b>.
 - 🌱 I’m currently learning <b>Golang</b>.
-- 💬 Ask me about <b>php, sql</b>.
+- 💬 Ask me about <b>php, sql, pascal, lua</b>.
 <hr> 
 
 ### Stats:   <br/>
