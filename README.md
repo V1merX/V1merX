@@ -2,7 +2,7 @@
 <hr>
 
 - 🔭 I’m currently working on <b>GXPRO.RU</b>.
-- 🌱 I’m currently learning <b>Golang</b>.
+- 🌱 I’m currently learning <b>C#</b>.
 - 💬 Ask me about <b>php, sql, pascal, lua</b>.
 <hr> 
 
