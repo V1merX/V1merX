@@ -2,7 +2,7 @@
 <hr>
 
 - 🔭 I’m currently working on <b>SVaynet</b>.
-- 🌱 I’m currently learning <b>C#</b>.
+- 🌱 I’m currently learning <b>C# & C++</b>.
 - 💬 Ask me about <b>php, sql, pascal, lua</b>.
 <hr> 
 
