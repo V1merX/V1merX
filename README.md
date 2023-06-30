@@ -2,8 +2,8 @@
 <hr>
 
 - 🔭 I’m currently working on <b>SVaynet</b>.
-- 🌱 I’m currently learning <b>C# & C++</b>.
-- 💬 Ask me about <b>php, sql, pascal, lua</b>.
+- 🌱 I’m currently learning <b>Golang</b>.
+- 💬 Ask me about <b>php, sql, lua</b>.
 <hr> 
 
 ### Stats:   <br/>
