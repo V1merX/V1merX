@@ -1,7 +1,7 @@
 ### Hi 👋, my name is Alex.
 <hr>
 
-- 🔭 I’m currently working on <b>SVaynet</b>.
+- 🔭 I’m currently working on <b>SELECT-PLACE</b>.
 - 🌱 I’m currently learning <b>Golang</b>.
 - 💬 Ask me about <b>php, sql, lua</b>.
 <hr> 
