@@ -14,5 +14,6 @@
 <hr>
 
 ### Stats:  
-<img src="https://komarev.com/ghpvc/?username=V1merX&style=for-the-badge&color=blue" alt=""/>
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=V1merX&show_icons=true)
+
+<img src="https://komarev.com/ghpvc/?username=V1merX&style=for-the-badge&color=blue" alt=""/>
