@@ -1,4 +1,5 @@
 ### Hi 👋, my name is Alex.
+<img src="https://komarev.com/ghpvc/?username=V1merX&style=for-the-badge&color=blue" alt=""/>
 <hr>
 
 - 🔭 I’m currently working on <b>SELECT-PLACE</b>.
@@ -16,4 +17,3 @@
 ### Stats:  
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=V1merX&show_icons=true)
 
-<img src="https://komarev.com/ghpvc/?username=V1merX&style=for-the-badge&color=blue" alt=""/>
