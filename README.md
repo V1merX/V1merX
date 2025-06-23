@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on TRUSTCASE<br>🌱 I’m currently learning GOLANG
+🌱 I’m currently learning Go
 
 
 ## 🌐 Socials:
